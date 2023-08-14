@@ -1,11 +1,11 @@
 let ad= prompt("adinizi yazn")
 let soyad= prompt("soyadinizi yazn")
 let yaş=prompt("yaşinizi yazn")
-let netice=`
+let netice1=`
 Name: ${ad}
 Surname: ${soyad}
 Age: ${yaş}`
-console.log(netice)
+console.log(netice1)
 
 
 
@@ -14,9 +14,9 @@ console.log(netice)
 
 
 let r=prompt("radius")
-let n1=2
+let n4=2
 let п=3
-let L=(r*n1*п)
+let L=(r*n4*п)
 console.log(L)
 
 
