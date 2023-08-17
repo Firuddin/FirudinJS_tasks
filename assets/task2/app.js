@@ -1,3 +1,4 @@
+// A: azerbaycanca variable adlarini yazmayaq
 let ad= prompt("adinizi yazn")
 let soyad= prompt("soyadinizi yazn")
 let yaş=prompt("yaşinizi yazn")

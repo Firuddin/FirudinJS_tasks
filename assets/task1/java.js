@@ -1,3 +1,4 @@
+// A: excellent ✨
 let doğulduğuil=prompt('doğum ilini daxil et')
 console.log(2023-doğulduğuil)
 
