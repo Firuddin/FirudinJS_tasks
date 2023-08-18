@@ -1,9 +1,10 @@
+// A: ehsen
 let name=prompt('adinizi daxil edin')
 let surename=prompt('soyadinizi daxil edin')
 let netice=`${name} ${surename}`
 console.log(netice)
 
-
+// A: duzbucaqlinin eni ve uzunluqlari beraber olur
 let a1=+prompt('duzbucaqlinin uzunluqun daxil et')
 let a2=+prompt('duzbucaqlininqarsi uz uzunluqunu daxil et')
 let b3=+prompt('duzbucaqlinin enin daxil et')
@@ -12,7 +13,7 @@ let Perimetr=`${a1}+${a2}+${b3}+${b4}=${a1+a2+b3+b4}`
 console.log(Perimetr)
 
 
-
+// A: ehsen
 let quvvet1=prompt('birinci ededi daxil edin')
 let quvvet2=prompt("ikinci ededi daxil edin")
 let theend=(`${quvvet1}**${quvvet2}=${quvvet1**quvvet2}`)
@@ -20,14 +21,14 @@ console.log(theend)
 
 
 
-
+// A: dogru
 
 let C1=prompt('selsi deyerin daxil edin')
 let Fahrenheit=(`${C1}*${1.8}+${32}=${C1*1.8+32}`)
 console.log(Fahrenheit)
 
 
-
+// A: dogru
 
 let eded=prompt('eded daxil edin')
 if(eded%15===0){
@@ -44,7 +45,7 @@ else if(eded % 5===0){
 
 
 
-
+// A: bu formada yox, aga. 1 variable olmalidir ve onun deyerini muqayise etmelisen
 
 let user=prompt('soz daxil edin')
 if(user){
