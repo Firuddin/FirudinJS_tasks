@@ -1,4 +1,4 @@
-/*let weight = +prompt("Çəkini (kilqramda) daxil edin:");
+let weight = +prompt("Çəkini (kilqramda) daxil edin:");
 let height = +prompt("Boyunu (metrda) daxil edin:");
 
 let bmi = weight / (height * height);
@@ -16,7 +16,7 @@ if (bmi < 18.5) {
 } else {
   console.log("Obez");
 }
-*/
+
 
 
 let direction=prompt('isiqamet daxil edin(up,right,left,down')
