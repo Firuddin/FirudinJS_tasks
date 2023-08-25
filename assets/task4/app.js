@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 let weight = +prompt("Çəkini (kilqramda) daxil edin:");
 let height = +prompt("Boyunu (metrda) daxil edin:");
 
