@@ -47,3 +47,6 @@ return hasil
 }
 console.log(multiply(1,2,3));
 */
+
+
+
