@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 const calc={
     ed1:0,
     ed2:0,
