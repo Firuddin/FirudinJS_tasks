@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 //task.1 Poçt kodu 50000-dən az və ya ona bərabər olan bütün istifadəçiləri əldə edin. 
 /*let users=[
 {
