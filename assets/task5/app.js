@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 //task1
 
 /*const ed1=+prompt('ilk ededi daxil edin')
