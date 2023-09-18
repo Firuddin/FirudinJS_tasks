@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 //1.tapsiriq
 
 /*function repeatedSymbolCounter(ALIONALI, A) {
