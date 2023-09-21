@@ -1,4 +1,4 @@
-/*task.3
+task.3
 heap,stack
 let n1=25
 let n2=25
@@ -29,16 +29,16 @@ function namber(p1, p2) {
 
   3.
   function name(){}           function defination
-*/
+
 
 //task.3
-/*const obj={color:'red', car:'rangerower'} 
+const obj={color:'red', car:'rangerower'} 
   console.log(obj)*/
 //Obyektler massivlerin icerisende ve ya funkisyada istifade etmek olur.
 
-/*task.4 
+task.4 
 snake case-
 camelcase
 pascalcase
 tolowercase
-touppercase*/
+touppercase
