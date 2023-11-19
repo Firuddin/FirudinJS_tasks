@@ -9,8 +9,7 @@ console.log("siz Sona xanimsiz");
     console.log("zehmet olmasa ad daxil edin");
 }*/
 
-
-let number=prompt("zəhmət olmasa ad daxil edin")
+/*let number=prompt("zəhmət olmasa ad daxil edin")
 if(number%15===0){
     console.log("bu eded hem 3-e bolunur hemde 5-e");
 }else if(number%3===0){
@@ -19,5 +18,18 @@ console.log("bu eded 3-e bolünür");
     console.log("bu eded 5-e bolünür");
 }else{
     console.log("bu eded hec birine bolünmür");
+}*/
+let number = +(prompt("zəhmət olmasa ad daxil edin"));
+switch (true) {
+  case number % 15 === 0:
+    console.log("Fizbuzz");
+    break;
+  case number % 5 === 0:
+    console.log("fizz");
+    break;
+  case number % 3 === 0:
+    console.log("buzz");
+    break;
+    default:
+        console.log("ededi duzgun  daxil et");
 }
-
