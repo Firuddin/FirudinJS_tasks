@@ -40,7 +40,7 @@ if(i<5){
     console.log("bu doqrudur");
    
 }*/
-let CpuDakiEded=Math.floor(Math.random()*100)
+/*let CpuDakiEded=Math.floor(Math.random()*100)
 let userEded=+prompt("ureyindeki ededi daxil et")
  let count=1
 while(userEded!==CpuDakiEded){
@@ -51,6 +51,16 @@ while(userEded!==CpuDakiEded){
         userEded=+prompt("daha yuxari eded")
     }
 }
-console.log(`siz ededi ${count} defeye tapdiniz +${CpuDakiEded}`);
-
+console.log(`siz ededi ${count} defeye tapdiniz +${CpuDakiEded}`);*/
+let i=0
+count=0
+while(i<=100){
+    if(i%2===0){
+        console.log(i) 
+         count+=i 
+    }
+  
+    i++
+}
+console.log(count);
 
