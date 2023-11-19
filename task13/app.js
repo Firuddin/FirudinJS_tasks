@@ -35,8 +35,19 @@ switch (true) {
         console.log("ededi duzgun  daxil et");
 }*/
 
-let i=0
+/*let i=0
 if(i<5){ 
     console.log("bu doqrudur");
    
+}*/
+let CpuDakiEded=Math.floor(Math.random()*100)
+let userEded=+prompt("ureyindeki ededi daxil et")
+ 
+while(userEded!==CpuDakiEded){
+    if(userEded>CpuDakiEded){
+        userEded=+prompt("daha asaqi dus") 
+    }else{
+        userEded=+prompt("daha yuxari eded")
+    }
 }
+console.log("siz ededi tapdiniz"+CpuDakiEded);
