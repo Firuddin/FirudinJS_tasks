@@ -52,7 +52,7 @@ while(userEded!==CpuDakiEded){
     }
 }
 console.log(`siz ededi ${count} defeye tapdiniz +${CpuDakiEded}`);*/
-let i=0
+/*let i=0
 count=0
 while(i<=100){
     if(i%2===0){
@@ -62,5 +62,9 @@ while(i<=100){
   
     i++
 }
-console.log(count);
-
+console.log(count);*/
+ for(let i=0; i<100; i++){
+    if(i%2===0){
+        console.log(i);
+    }
+ }
