@@ -17,5 +17,7 @@ if(number%15===0){
 console.log("bu eded 3-e bolünür");
 }else if(number%5===0){
     console.log("bu eded 5-e bolünür");
+}else{
+    console.log("bu eded hec birine bolünmür");
 }
 
