@@ -19,7 +19,8 @@ console.log("bu eded 3-e bolünür");
 }else{
     console.log("bu eded hec birine bolünmür");
 }*/
-let number = +(prompt("zəhmət olmasa ad daxil edin"));
+
+/*let number = +(prompt("zəhmət olmasa ad daxil edin"));
 switch (true) {
   case number % 15 === 0:
     console.log("Fizbuzz");
@@ -32,4 +33,10 @@ switch (true) {
     break;
     default:
         console.log("ededi duzgun  daxil et");
+}*/
+
+let i=0
+if(i<5){ 
+    console.log("bu doqrudur");
+   
 }
