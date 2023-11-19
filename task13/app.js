@@ -8,3 +8,5 @@ console.log("siz Sona xanimsiz");
 }else{
     console.log("zehmet olmasa ad daxil edin");
 }
+
+
