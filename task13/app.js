@@ -40,7 +40,7 @@ if(i<5){
     console.log("bu doqrudur");
    
 }*/
-let CpuDakiEded=Math.floor(Math.random()*100)
+/*let CpuDakiEded=Math.floor(Math.random()*100)
 let userEded=+prompt("ureyindeki ededi daxil et")
  
 while(userEded!==CpuDakiEded){
@@ -50,4 +50,4 @@ while(userEded!==CpuDakiEded){
         userEded=+prompt("daha yuxari eded")
     }
 }
-console.log("siz ededi tapdiniz"+CpuDakiEded);
+console.log("siz ededi tapdiniz"+CpuDakiEded);*/
